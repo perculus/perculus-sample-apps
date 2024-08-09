@@ -1,4 +1,4 @@
-perculus-sdk-python==0.2.1
+perculus-sdk==0.2.4
 python-dotenv==1.0.1
 requests==2.32.3
 urllib3==2.2.2

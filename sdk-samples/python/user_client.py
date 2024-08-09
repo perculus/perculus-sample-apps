@@ -1,6 +1,6 @@
 import os
 
-from perculus_sdk_python.client import APIClient
+from perculus_sdk.client import APIClient
 
 
 def print_access_token(client):
